@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/t13cs046/IT_Sys/project_F/spring-core-3.2.3.release.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/IT_Sys/project_F/spring-mock-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/IT_Sys/project_F/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/IT_Sys/project_F/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/t13cs046/.eclipse/org.eclipse.platform_4.2.0_185596441/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/testing/appengine-testing.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/.eclipse/org.eclipse.platform_4.2.0_185596441/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/impl/appengine-api.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/.eclipse/org.eclipse.platform_4.2.0_185596441/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/impl/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="/kkihome/home/t13cs046/.eclipse/org.eclipse.platform_4.2.0_185596441/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/impl/appengine-api-stubs.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/App Engine"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
